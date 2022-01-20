@@ -9,7 +9,7 @@ echo $id;
 ?>
 <html>
   <head>
-     <title>Gerador de rg McLovin 2.0</title>
+     <title>Atualizador Dados</title>
 	</head>
 	<b><big>atualizador de dados</big></b>
 	<br>
